@@ -1,3 +1,5 @@
+*.npz
 *.zip
-*npy
-versions
+models
+training_dataset
+windowed_training_data
