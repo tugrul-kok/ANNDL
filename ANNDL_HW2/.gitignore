@@ -1,6 +1,5 @@
 *.npz
 *.zip
-models
-training_dataset
-windowed_training_data
+*.npy
+*.h5
 append_this_to_v1.2_for_normalization.ipynb
